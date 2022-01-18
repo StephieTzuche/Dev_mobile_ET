@@ -12,3 +12,6 @@ MyQuizzRevision est une applcation mobile dont le concept est de permettre à l'
 Equipe :
      - Essomba Kalo Megane
      - Tzuche Tuemgne Stephanie 
+     - MASSADO DE KUIGWA Brandy
+
+
